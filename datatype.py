@@ -20,3 +20,11 @@ print(first_Tuple)
 # Dictionary/ Elements in the dictionary are always in pairs (key:value) curly bracket
 first_dictionary = {"Name": "juju", "weight": 75, "Exercise": ["Box", "Jog", "Cricket"]}
 print(first_dictionary)
+
+# Boolen
+x = True
+y = False
+print(x, y)
+print(type(x))
+
+
